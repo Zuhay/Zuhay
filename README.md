@@ -1,4 +1,4 @@
-# **👋 Hi, I’m @Zuhay 'Zuhayr Khan'**
+# **👋 Hi, I’m 'Zuhayr Khan'**
 
 ## **👀 I’m interested in Computer Science and Technology!**
 
