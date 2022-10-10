@@ -8,7 +8,7 @@
 <br />
 <br />
 [<img height=30 width=60 src= "https://user-images.githubusercontent.com/77344922/194929421-783044c7-c15c-4402-955f-abe93f1f650f.png">](mailto:zuhayrkhan3199@gmail.com)
-[<img height=30 width=60 src= "https://user-images.githubusercontent.com/77344922/194929653-01458f36-cd3a-4807-9920-8b9a2c15840e.png">](https://www.linkedin.com/in/zuhayr-khan)
+[<img height=30 width=60 src= "https://user-images.githubusercontent.com/77344922/194929845-f7abddcf-4387-47ff-bf64-36986400e67f.png">](https://www.linkedin.com/in/zuhayr-khan)
 
 <!---
 Zuhay/Zuhay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
