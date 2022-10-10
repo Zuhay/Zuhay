@@ -5,7 +5,7 @@
 **🌱 I’m a Software Engineer graduate and looking for opportunities in this field.**
 
 📫 How to reach me ...
-- **[<img height=30 width=60 src= "https://user-images.githubusercontent.com/77344922/194929421-783044c7-c15c-4402-955f-abe93f1f650f.png">](mailto:zuhayrkhan3199@gmail.com)**
+[<img height=30 width=60 src= "https://user-images.githubusercontent.com/77344922/194929421-783044c7-c15c-4402-955f-abe93f1f650f.png">](mailto:zuhayrkhan3199@gmail.com)**
 - **[LinkedIn](https://www.linkedin.com/in/zuhayr-khan)**
 
 <!---
